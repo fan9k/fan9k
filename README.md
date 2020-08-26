@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stats
+## Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynuk&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Rynuk's github stats](https://github-readme-stats.vercel.app/api?username=rynuk)](https://github.com/anuraghazra/github-readme-stats)
