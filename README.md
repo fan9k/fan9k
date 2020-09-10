@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynuk&hide=css&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynuk&hide=css,c++,html&layout=compact)
