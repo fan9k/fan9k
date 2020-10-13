@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 
 ## Some of the technologies I have worked with
 
