@@ -19,14 +19,7 @@ Here are some ideas to get you started:
 
 ## Languages I have used
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-
-## Some of the technologies I have worked with
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Emacs](https://img.shields.io/badge/-Emacs-000000?style=flat&logo=gnu&logoColor=FCC624)
